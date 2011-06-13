@@ -1,0 +1,3 @@
+Now it's possible to use a new SMTP server (for each account) for send an email when the current connectivity is on "mobile" and not in "wifi" mode without must change the SMTP server name. At the sending moment the program test the net and if it's in wifi mode it use the standard smtp account, but if the phone is connected on the mobile provider network, k9mail will use the new SMTP server.
+It's possible set the mobile SMTP server from a single account popup menu.
+
